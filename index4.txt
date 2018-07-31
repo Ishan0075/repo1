@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Childern of the forests.
+======
+the dark knight=
+Andels and pentos.
+>>>>>>> b1
